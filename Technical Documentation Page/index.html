@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JavaScript Technical Documentation</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav id="navbar">
+    <header>JavaScript Basics</header>
+    <a class="nav-link" href="#Introduction">Introduction</a>
+    <a class="nav-link" href="#Variables">Variables</a>
+    <a class="nav-link" href="#Data_Types">Data Types</a>
+    <a class="nav-link" href="#Functions">Functions</a>
+    <a class="nav-link" href="#Loops">Loops</a>
+  </nav>
+
+  <!-- Main Documentation -->
+  <main id="main-doc">
+    
+    <!-- Section 1 -->
+    <section class="main-section" id="Introduction">
+      <header>Introduction</header>
+      <p>JavaScript is a high-level, interpreted programming language primarily used for web development.</p>
+      <p>It allows you to add interactivity to your web pages and is an essential part of modern web technologies.</p>
+      <p>JavaScript is versatile and widely supported by all major browsers.</p>
+      <ul>
+        <li>Client-side scripting</li>
+        <li>Dynamic content updates</li>
+        <li>Event handling</li>
+      </ul>
+      <code>console.log("Hello, World!");</code>
+    </section>
+    
+    <!-- Section 2 -->
+    <section class="main-section" id="Variables">
+      <header>Variables</header>
+      <p>Variables are containers for storing data values in JavaScript.</p>
+      <p>You can declare variables using <code>var</code>, <code>let</code>, or <code>const</code>.</p>
+      <p>The difference between these keywords relates to scope and mutability.</p>
+      <ul>
+        <li><code>var</code> - function scoped</li>
+        <li><code>let</code> - block scoped</li>
+        <li><code>const</code> - block scoped, immutable</li>
+      </ul>
+      <code>let name = "Alice";</code>
+      <code>const age = 25;</code>
+    </section>
+    
+    <!-- Section 3 -->
+    <section class="main-section" id="Data_Types">
+      <header>Data Types</header>
+      <p>JavaScript supports different data types:</p>
+      <p>They can be categorized into primitive and reference types.</p>
+      <ul>
+        <li>String</li>
+        <li>Number</li>
+        <li>Boolean</li>
+        <li>Object</li>
+        <li>Undefined</li>
+      </ul>
+      <code>let isActive = true;</code>
+      <code>let score = 99;</code>
+    </section>
+    
+    <!-- Section 4 -->
+    <section class="main-section" id="Functions">
+      <header>Functions</header>
+      <p>Functions are blocks of reusable code designed to perform a particular task.</p>
+      <p>They can take input parameters and return values.</p>
+      <p>You can define functions in multiple ways.</p>
+      <ul>
+        <li>Function declaration</li>
+        <li>Function expression</li>
+        <li>Arrow function</li>
+      </ul>
+      <code>
+        function greet(name) { return "Hello " + name; }
+      </code>
+    </section>
+    
+    <!-- Section 5 -->
+    <section class="main-section" id="Loops">
+      <header>Loops</header>
+      <p>Loops allow you to execute a block of code repeatedly based on a condition.</p>
+      <p>Common loop types in JavaScript:</p>
+      <ul>
+        <li><code>for</code> loop</li>
+        <li><code>while</code> loop</li>
+        <li><code>do...while</code> loop</li>
+      </ul>
+      <code>
+        for(let i = 0; i &lt; 5; i++) { console.log(i); }
+      </code>
+    </section>
+    
+  </main>
+</body>
+</html>
