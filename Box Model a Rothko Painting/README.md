@@ -33,11 +33,11 @@ View Project on GitHub Pages
 
 ## 📚 What I Learned
 
-Understanding of the box model: margins, padding, borders
+- Understanding of the box model: margins, padding, borders
 
-How to center elements on a page
+- How to center elements on a page
 
-Applying CSS filters, border-radius, and shadows for visual effects
+- Applying CSS filters, border-radius, and shadows for visual effects
 
 ---
 
