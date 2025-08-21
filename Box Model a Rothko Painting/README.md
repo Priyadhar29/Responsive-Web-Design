@@ -46,5 +46,3 @@ Applying CSS filters, border-radius, and shadows for visual effects
 This project is licensed under the MIT License.
 
 ---
-
-Would you like me to now **prepare a combined README for your entire Responsive Web Design repo** that includes **all project links and live demos** in a single file (so you can use it at the root level)? Or keep creating individual files for each project?
