@@ -29,7 +29,7 @@ Cat Photo App/
 ---
 ## ✅ Live Demo
 
-[View Project on GitHub Pages]([https://priyadhar29.github.io/Building-A-Cat-Photo-Shop/](https://github.com/Priyadhar29/Building-A-Cat-Photo-Shop/tree/main))
+[View Project on GitHub Pages](https://github.com/Priyadhar29/Building-A-Cat-Photo-Shop/tree/main)
 
 ---
 
